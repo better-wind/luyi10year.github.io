@@ -1,0 +1,35 @@
+<meta name="Keywords" content="双十一，好设计，红包，免费，设计师，原创，手工，个性，定制，减价，折扣，江南布衣，独立，文艺，小清新，陈秋实同款卫衣">
+<meta name="Description" content="50元现金免费拿,想去11.11">
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<meta name="viewport" content="width=device-width,initial-scale=1,user-scalable=no" />
+<meta content="telephone=no" name="format-detection" />
+<meta name="apple-touch-fullscreen" content="yes" />
+<meta name="apple-mobile-web-app-capable" content="yes" />
+<meta name="apple-mobile-web-app-status-bar-style" content="black" />
+<script>
+    (function(){
+        function RemInit(){
+            var dpr, rem, scale;
+            var docEl = window.document.documentElement;
+            var bodyEl = window.document.body;
+            var metaEl = window.document.querySelector('meta[name="viewport"]');
+            var psdWidth = 750/100;
+            dpr = window.devicePixelRatio || 1;
+            dpr = 1;
+            rem = docEl.clientWidth * dpr / psdWidth;
+            docEl.style.fontSize = rem +'px'
+            docEl.setAttribute('data-dpr', dpr);
+            scale = 1 / dpr;
+            metaEl.setAttribute('content', 'width=' + dpr * docEl.clientWidth + ',initial-scale=' + scale + ',maximum-scale=' + scale + ', minimum-scale=' + scale + ',user-scalable=no');
+            window.dpr = dpr;
+            window.rem = rem;
+            window.addEventListener('resize',function(){
+                rem = docEl.clientWidth * dpr / psdWidth;
+                docEl.style.fontSize = rem +'px'
+            })
+        }
+        RemInit();
+    })()
+</script>
+
+
