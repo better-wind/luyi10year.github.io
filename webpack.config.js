@@ -1,34 +1,54 @@
 var path = require('path');
 var webpack = require('webpack');
-
-
 module.exports = {
-    entry:{
-        index:'./dev/js/index.js',
-
+    // entry: path.join(__dirname,'./dev-pack/js/index.js'),
+    entry: './dev-pack/js/index.js',
+    output: {
+        path: './dist-pack',
+        publicPath:'dist-pack/',
+        filename: 'build.js'
     },
-    output:{
-        path:'../../../build/activity/xiangqu-11-11/js',
-        filename:'[name].js'
-    },
+    watch:true,
     module: {
         loaders: [
+            //转化ES6语法
             {
                 test: /\.js$/,
-                exclude: /node_modules/,
                 loader: 'babel',
-                query: {
-                    presets: ['es2015']
-                }
+                exclude: /node_modules/,
+            },
+            {
+                test:/\.vue$/,
+                loader:'vue',
+            },
+            {
+                test: /\.(png|jpg|gif)$/,
+                loader:'url-loader?limit=8192'
             },
             {
                 test: /\.scss$/,
-                loader: "style!css!sass"
+                loader:['style','css','sass'].join('!')
             }
-             ]
+        ]
     },
-    resolve:{
-             extensions:['','.js','.json']
+    babel: {
+        presets: ['es2015'],
+        plugins: ['transform-runtime']
+    },
+    vue:{
+        loaders:{
+            js:'babel',
+            scss:['vue-style-loader','css','sass'].join('!')
+        }
+    },
+    resolve: {
+        // require时省略的扩展名，如：require('app') 不需要app.js
+        extensions: ['','.js','.vue','.scss'],
+        // 别名，可以直接使用别名来代表设定的路径以及其他
+        //alias: {
+        //    filter: path.join(__dirname, './src/filters'),
+        //    components: path.join(__dirname, './src/components')
+        //}
     },
     plugins: [
         //new webpack.NoErrorsPlugin(),
