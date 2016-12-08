@@ -56,4 +56,4 @@ http.createServer(function(req,res){
             page_404(req,res,realPath);
         }
     })
-}).listen(3000,'123.57.160.125')
+}).listen(3000,'127.0.0.1')
