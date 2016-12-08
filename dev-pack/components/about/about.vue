@@ -1,18 +1,18 @@
 <template>
-    <section class="home" v-bind:style="{height:clientVal.height+'px'}">
-        {{demoData}}
+    <section class="about" v-bind:style="{height:clientVal.height+'px'}">
+        {{msg}}
     </section>
 </template>
 <script>
     export default {
-        props:['demoData'],
         data(){
             return {
-                clientVal: {}
+                clientVal: {},
+                msg:'No more ....'
             }
         },
         created:function(){
-            console.log('Home is Ok');
+            console.log('ABOUT is Ok');
             this.fetchData();
         },
         methods:{
@@ -28,8 +28,13 @@
     }
 </script>
 <style lang="sass" rel="stylesheet/scss" type="text/css">
-    .home{
-        background: url("/dist/image/index/working-on-laptop.jpg") no-repeat center center/cover;
+    .about{
+        background-color: rgb(255,0,255);
         min-height: 400px;
+        font-size: 18px;
+        font-weight: 400;
+        letter-spacing: 1px;
+        line-height: 400px;
+        text-align: center;
     }
 </style>

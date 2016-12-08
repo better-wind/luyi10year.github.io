@@ -1,28 +1,28 @@
 <template>
     <div class="app">
-        <Header></Header>
+        <HeaderNav></HeaderNav>
         <section>
-            <Home :clientVal="clientVal"></Home>
+            <Home :demoData="demoData"></Home>
+            <About></About>
         </section>
 
     </div>
 
 </template>
 <script>
-    import Header from './header/header.vue'
+    import HeaderNav from './header/header.vue'
     import Home from './home/home.vue';
+    import About from './about/about.vue'
     export default {
         data(){
           return {
-              clientVal: {
-                  width:(document.body.clientWidth || document.documentElement.clientWidth),
-                  height:(document.body.clientHeight || document.documentElement.clientHeight)
-              }
+              demoData:'hahaha',
           }
         },
         components:{
             Home,
-            Header
+            HeaderNav,
+            About
         }
     }
 </script>
