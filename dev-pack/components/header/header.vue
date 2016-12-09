@@ -38,14 +38,14 @@
 //                    }
 //                });
 
-                window.onscroll = function(){
-                    if(document.body.scrollTop > 100){
-                        self.fixed = true;
-                    }
-                    else{
-                        self.fixed = false;
-                    }
-                }
+//                window.onscroll = function(){
+//                    if(document.body.scrollTop > 100){
+//                        self.fixed = true;
+//                    }
+//                    else{
+//                        self.fixed = false;
+//                    }
+//                }
             },
         },
         created:function(){
