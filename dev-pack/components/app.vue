@@ -7,7 +7,6 @@
         </section>
 
     </div>
-
 </template>
 <script>
     import HeaderNav from './header/header.vue'
@@ -16,7 +15,7 @@
     export default {
         data(){
           return {
-              demoData:'hahaha',
+              demoData:'Man,I believe I can fly!',
           }
         },
         components:{

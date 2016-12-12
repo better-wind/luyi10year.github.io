@@ -52,16 +52,16 @@ module.exports = {
     },
     plugins: [
         //new webpack.NoErrorsPlugin(),
-        new webpack.optimize.UglifyJsPlugin({
-            output: {
-                comments: false,
-            },
-            compress: {
-                warnings: false
-            },
-            mangle:{
-                except:['$super','$','exports','require']
-            }
-        })
+        // new webpack.optimize.UglifyJsPlugin({
+        //     output: {
+        //         comments: false,
+        //     },
+        //     compress: {
+        //         warnings: false
+        //     },
+        //     mangle:{
+        //         except:['$super','$','exports','require']
+        //     }
+        // })
     ]
 }

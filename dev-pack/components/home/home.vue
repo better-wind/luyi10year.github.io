@@ -6,6 +6,7 @@
 <script>
     export default {
         props:['demoData'],
+        //    父组件数据{{demoData}}
         data(){
             return {
                 clientVal: {}
@@ -21,7 +22,8 @@
                     width:(document.body.clientWidth || document.documentElement.clientWidth),
                     height:(document.body.clientHeight || document.documentElement.clientHeight)
                 }
-                console.log('Data is OK');
+                console.log('Home Data is OK');
+
             }
         }
 

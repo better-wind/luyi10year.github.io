@@ -21,7 +21,7 @@
                     width:(document.body.clientWidth || document.documentElement.clientWidth),
                     height:(document.body.clientHeight || document.documentElement.clientHeight)
                 }
-                console.log('Data is OK');
+                console.log('About Data is OK');
             }
         }
 

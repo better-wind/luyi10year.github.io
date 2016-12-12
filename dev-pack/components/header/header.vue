@@ -69,7 +69,7 @@
             -o-transition-duration: .5s;
             transition-duration: .5s;
             &.nav-fixed{
-                background-color: rgba(0,0,0,.5);
+                background-color: rgba(0,0,0,.8);
                 padding: 15px 0;
                 font-size: 12px;
             }
@@ -83,6 +83,7 @@
                     li{
                         padding: 5px 15px;
                         display: inline-block;
+                        cursor: pointer;
                     }
                 }
             }
