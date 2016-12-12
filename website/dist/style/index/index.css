@@ -113,7 +113,7 @@ ins, a {
 
 @font-face {
   font-family: "Montserrat";
-  src: url("/dist/font/montserrat.woff2");
+  src: url("/website/dist/font/montserrat.woff2");
 }
 
 body {
@@ -156,7 +156,7 @@ header .nav-view nav ul li {
 }
 
 .home {
-  background: url("/dist/image/index/working-on-laptop.jpg") no-repeat center center/cover;
+  background: url("/website/dist/image/index/working-on-laptop.jpg") no-repeat center center/cover;
   min-height: 618px;
 }
 

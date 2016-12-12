@@ -31,7 +31,7 @@
 </script>
 <style lang="sass" rel="stylesheet/scss" type="text/css">
     .home{
-        background: url("/dist/image/index/working-on-laptop.jpg") no-repeat center center/cover;
+        background: url("/website/dist/image/index/working-on-laptop.jpg") no-repeat center center/cover;
         min-height: 400px;
     }
 </style>
