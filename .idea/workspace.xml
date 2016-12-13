@@ -1,7 +1,309 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ac5cffe5-5acb-46aa-af37-1f1bc7b8b1b4" name="Default" comment="" />
+    <list default="true" id="ac5cffe5-5acb-46aa-af37-1f1bc7b8b1b4" name="Default" comment="">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/hexo-demo/.gitignore" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/hexo-demo/.vscode/launch.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/hexo-demo/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/hexo-demo/_config.yml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/hexo-demo/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/hexo-demo/scaffolds/draft.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/hexo-demo/scaffolds/page.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/hexo-demo/scaffolds/photo.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/hexo-demo/scaffolds/post.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/hexo-demo/source/_posts/a-chrismas-ico.markdown" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/hexo-demo/source/_posts/about-pjax.markdown" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/hexo-demo/source/_posts/assassins-creed.markdown" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/hexo-demo/source/_posts/brief-oauth.markdown" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/hexo-demo/source/_posts/changbaishan.markdown" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/hexo-demo/source/_posts/coffee-pc.markdown" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/hexo-demo/source/_posts/css-jiugongge.markdown" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/hexo-demo/source/_posts/css-jiugongge2.markdown" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/hexo-demo/source/_posts/css3-animater.markdown" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/hexo-demo/source/_posts/diary-2016-0710-0716.markdown" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/hexo-demo/source/_posts/diary-2016-0717-0723.markdown" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/hexo-demo/source/_posts/diary-2016-0724-0730.markdown" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/hexo-demo/source/_posts/diary-2016-0731-0806.markdown" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/hexo-demo/source/_posts/diary-2016-0807-0813.markdown" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/hexo-demo/source/_posts/diary-2016-0814-0820.markdown" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/hexo-demo/source/_posts/diary-2016-0904-0910.markdown" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/hexo-demo/source/_posts/diary-2016-0911-0924.markdown" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/hexo-demo/source/_posts/diary-2016-1001-1007.markdown" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/hexo-demo/source/_posts/diary-2016-1008-1015.markdown" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/hexo-demo/source/_posts/diary-2016-1016-1022.markdown" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/hexo-demo/source/_posts/diary-2016-1023-1029.markdown" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/hexo-demo/source/_posts/diary-2016-1030-1105.markdown" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/hexo-demo/source/_posts/douban-index-for-chrome.markdown" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/hexo-demo/source/_posts/feng-shui.markdown" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/hexo-demo/source/_posts/folder-to-tree.markdown" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/hexo-demo/source/_posts/graduation-shirt-design.markdown" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/hexo-demo/source/_posts/guide-for-zb.markdown" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/hexo-demo/source/_posts/gulangyu.markdown" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/hexo-demo/source/_posts/hack-in-localstorage.markdown" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/hexo-demo/source/_posts/handling-asynchronous-js.markdown" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/hexo-demo/source/_posts/hello-world.markdown" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/hexo-demo/source/_posts/hexo-theme-yilia.markdown" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/hexo-demo/source/_posts/history-of-browser-useragent.markdown" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/hexo-demo/source/_posts/history-of-browser-useragent2.markdown" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/hexo-demo/source/_posts/img-lazy-load.markdown" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/hexo-demo/source/_posts/instagram-api-ex.markdown" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/hexo-demo/source/_posts/journey-to-yunnan.markdown" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/hexo-demo/source/_posts/kael-qrcode-info.markdown" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/hexo-demo/source/_posts/lock-me-in-a-cup.markdown" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/hexo-demo/source/_posts/logic-of-chord.markdown" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/hexo-demo/source/_posts/mediator-model.markdown" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/hexo-demo/source/_posts/my-fairy-tale1.markdown" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/hexo-demo/source/_posts/my-fairy-tale2.markdown" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/hexo-demo/source/_posts/my-fairy-tale3.markdown" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/hexo-demo/source/_posts/my-news-reader-box.markdown" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/hexo-demo/source/_posts/my2013.markdown" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/hexo-demo/source/_posts/nginx-in-fe.markdown" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/hexo-demo/source/_posts/no-one-used-pro.markdown" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/hexo-demo/source/_posts/oauth-rabbit.markdown" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/hexo-demo/source/_posts/reduce-http-requests.markdown" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/hexo-demo/source/_posts/safety-point-of-view-from-front-end.markdown" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/hexo-demo/source/_posts/share-a-css-hack.markdown" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/hexo-demo/source/_posts/something-about-immersion.markdown" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/hexo-demo/source/_posts/the-storied-life-of-aj.markdown" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/hexo-demo/source/_posts/theme-update1-dot-0.markdown" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/hexo-demo/source/_posts/thinner-than-1px-border.markdown" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/hexo-demo/source/_posts/three-drama.markdown" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/hexo-demo/source/_posts/two-magics-of-the-pilot.markdown" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/hexo-demo/source/_posts/viewing-commentary.markdown" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/hexo-demo/source/_posts/volunteer-activities.markdown" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/hexo-demo/source/_posts/web-worker-learning.markdown" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/hexo-demo/source/_posts/yilia-on-mobile.markdown" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/hexo-demo/source/assets/blogImg/BLbaFJDAJ1i.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/hexo-demo/source/assets/blogImg/aj.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/hexo-demo/source/assets/blogImg/border1px.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/hexo-demo/source/assets/blogImg/browser-history.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/hexo-demo/source/assets/blogImg/browser-history2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/hexo-demo/source/assets/blogImg/bys0.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/hexo-demo/source/assets/blogImg/bys1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/hexo-demo/source/assets/blogImg/bys2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/hexo-demo/source/assets/blogImg/bys3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/hexo-demo/source/assets/blogImg/changbaishan-1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/hexo-demo/source/assets/blogImg/changbaishan-2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/hexo-demo/source/assets/blogImg/chord1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/hexo-demo/source/assets/blogImg/chord2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/hexo-demo/source/assets/blogImg/ckxt0.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/hexo-demo/source/assets/blogImg/ckxt1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/hexo-demo/source/assets/blogImg/ckxt2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/hexo-demo/source/assets/blogImg/ckxt3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/hexo-demo/source/assets/blogImg/ckxt4.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/hexo-demo/source/assets/blogImg/css3_anm.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/hexo-demo/source/assets/blogImg/css_hack.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/hexo-demo/source/assets/blogImg/diary-1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/hexo-demo/source/assets/blogImg/diary-10.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/hexo-demo/source/assets/blogImg/diary-11.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/hexo-demo/source/assets/blogImg/diary-12.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/hexo-demo/source/assets/blogImg/diary-13.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/hexo-demo/source/assets/blogImg/diary-14.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/hexo-demo/source/assets/blogImg/diary-15.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/hexo-demo/source/assets/blogImg/diary-2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/hexo-demo/source/assets/blogImg/diary-3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/hexo-demo/source/assets/blogImg/diary-4.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/hexo-demo/source/assets/blogImg/diary-5.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/hexo-demo/source/assets/blogImg/diary-6.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/hexo-demo/source/assets/blogImg/diary-7.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/hexo-demo/source/assets/blogImg/diary-9.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/hexo-demo/source/assets/blogImg/dragon.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/hexo-demo/source/assets/blogImg/fengshui0.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/hexo-demo/source/assets/blogImg/fengshui1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/hexo-demo/source/assets/blogImg/fengshui2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/hexo-demo/source/assets/blogImg/fengshui3.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/hexo-demo/source/assets/blogImg/fengshui4.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/hexo-demo/source/assets/blogImg/fengshui5.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/hexo-demo/source/assets/blogImg/fengshui6.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/hexo-demo/source/assets/blogImg/gulangyu.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/hexo-demo/source/assets/blogImg/immersion.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/hexo-demo/source/assets/blogImg/imp_search.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/hexo-demo/source/assets/blogImg/instagram1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/hexo-demo/source/assets/blogImg/instagram2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/hexo-demo/source/assets/blogImg/jiugongge1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/hexo-demo/source/assets/blogImg/jiugongge10.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/hexo-demo/source/assets/blogImg/jiugongge2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/hexo-demo/source/assets/blogImg/jiugongge3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/hexo-demo/source/assets/blogImg/jiugongge4.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/hexo-demo/source/assets/blogImg/jiugongge5.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/hexo-demo/source/assets/blogImg/jiugongge6.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/hexo-demo/source/assets/blogImg/jiugongge7.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/hexo-demo/source/assets/blogImg/jiugongge8.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/hexo-demo/source/assets/blogImg/jiugongge9.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/hexo-demo/source/assets/blogImg/lazyload.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/hexo-demo/source/assets/blogImg/lijiang.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/hexo-demo/source/assets/blogImg/litten.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/hexo-demo/source/assets/blogImg/localstorage1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/hexo-demo/source/assets/blogImg/localstorage2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/hexo-demo/source/assets/blogImg/localstorage3.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/hexo-demo/source/assets/blogImg/localstorage4.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/hexo-demo/source/assets/blogImg/localstorage5.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/hexo-demo/source/assets/blogImg/mediator1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/hexo-demo/source/assets/blogImg/myReader0.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/hexo-demo/source/assets/blogImg/nginx0.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/hexo-demo/source/assets/blogImg/nginx1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/hexo-demo/source/assets/blogImg/nginx2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/hexo-demo/source/assets/blogImg/rabbit.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/hexo-demo/source/assets/blogImg/reduce-http.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/hexo-demo/source/assets/blogImg/safety_001.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/hexo-demo/source/assets/blogImg/safety_002.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/hexo-demo/source/assets/blogImg/safety_003.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/hexo-demo/source/assets/blogImg/safety_004.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/hexo-demo/source/assets/blogImg/safety_005.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/hexo-demo/source/assets/blogImg/up1_tips.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/hexo-demo/source/assets/blogImg/volunteer1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/hexo-demo/source/assets/blogImg/volunteer2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/hexo-demo/source/assets/blogImg/volunteer3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/hexo-demo/source/assets/blogImg/web_worker1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/hexo-demo/source/assets/blogImg/web_worker2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/hexo-demo/source/assets/blogImg/xmas_ico0.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/hexo-demo/source/assets/blogImg/xmas_ico1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/hexo-demo/source/assets/blogImg/xmas_ico2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/hexo-demo/source/assets/blogImg/xmas_ico3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/hexo-demo/source/assets/demo/border1px.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/hexo-demo/source/assets/demo/coffee_pc_demo/pro-con.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/hexo-demo/source/assets/demo/coffee_pc_demo/pro-con.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/hexo-demo/source/assets/demo/gift/css/index.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/hexo-demo/source/assets/demo/gift/css/index.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/hexo-demo/source/assets/demo/gift/css/reset.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/hexo-demo/source/assets/demo/gift/img/paper-b.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/hexo-demo/source/assets/demo/gift/img/paper.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/hexo-demo/source/assets/demo/gift/img/shake.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/hexo-demo/source/assets/demo/gift/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/hexo-demo/source/assets/demo/gift/js/index.main.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/hexo-demo/source/assets/demo/gift/js/shake.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/hexo-demo/source/assets/demo/gift/js/zepto.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/hexo-demo/source/assets/demo/gift/media/gift.ogg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/hexo-demo/source/assets/demo/hack_demo.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/hexo-demo/source/assets/demo/jiugongge_demo.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/hexo-demo/source/assets/demo/jiugongge_demo2.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/hexo-demo/source/assets/demo/jquery.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/hexo-demo/source/assets/demo/mediator/demo.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/hexo-demo/source/assets/demo/mediator/mediator.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/hexo-demo/source/assets/demo/mediator/sgws.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/hexo-demo/source/assets/demo/my_news_reader/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/hexo-demo/source/assets/demo/my_news_reader/js/main.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/hexo-demo/source/assets/demo/my_news_reader/js/tagConfig.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/hexo-demo/source/assets/demo/pre_css3_demo/bg.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/hexo-demo/source/assets/demo/pre_css3_demo/demo.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/hexo-demo/source/assets/demo/pre_css3_demo/mhxy.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/hexo-demo/source/assets/img/alipay.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/hexo-demo/source/assets/img/empty.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/hexo-demo/source/assets/img/favicon.ico" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/hexo-demo/source/assets/img/preloader.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/hexo-demo/source/assets/img/weixin.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/hexo-demo/source/assets/video/yilia-mobile.mp4" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/hexo-demo/source/photos/index.ejs" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/hexo-demo/source/photos/ins.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/hexo-demo/source/photos/ins.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/hexo-demo/source/photos/ins.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/hexo-demo/source/photos/lazyload.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/hexo-demo/themes/yilia/.babelrc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/hexo-demo/themes/yilia/.editorconfig" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/hexo-demo/themes/yilia/.eslintignore" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/hexo-demo/themes/yilia/.eslintrc.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/hexo-demo/themes/yilia/.gitignore" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/hexo-demo/themes/yilia/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/hexo-demo/themes/yilia/_config.yml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/hexo-demo/themes/yilia/languages/default.yml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/hexo-demo/themes/yilia/languages/fr.yml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/hexo-demo/themes/yilia/languages/nl.yml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/hexo-demo/themes/yilia/languages/no.yml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/hexo-demo/themes/yilia/languages/ru.yml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/hexo-demo/themes/yilia/languages/zh-CN.yml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/hexo-demo/themes/yilia/languages/zh-tw.yml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/hexo-demo/themes/yilia/layout/_partial/after-footer.ejs" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/hexo-demo/themes/yilia/layout/_partial/archive-post.ejs" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/hexo-demo/themes/yilia/layout/_partial/archive.ejs" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/hexo-demo/themes/yilia/layout/_partial/article.ejs" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/hexo-demo/themes/yilia/layout/_partial/footer.ejs" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/hexo-demo/themes/yilia/layout/_partial/google-analytics.ejs" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/hexo-demo/themes/yilia/layout/_partial/head.ejs" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/hexo-demo/themes/yilia/layout/_partial/header.ejs" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/hexo-demo/themes/yilia/layout/_partial/left-col.ejs" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/hexo-demo/themes/yilia/layout/_partial/mathjax.ejs" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/hexo-demo/themes/yilia/layout/_partial/mobile-nav.ejs" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/hexo-demo/themes/yilia/layout/_partial/post/category.ejs" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/hexo-demo/themes/yilia/layout/_partial/post/date.ejs" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/hexo-demo/themes/yilia/layout/_partial/post/duoshuo.ejs" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/hexo-demo/themes/yilia/layout/_partial/post/nav.ejs" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/hexo-demo/themes/yilia/layout/_partial/post/share.ejs" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/hexo-demo/themes/yilia/layout/_partial/post/tag.ejs" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/hexo-demo/themes/yilia/layout/_partial/post/title.ejs" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/hexo-demo/themes/yilia/layout/_partial/tools.ejs" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/hexo-demo/themes/yilia/layout/_partial/viewer.ejs" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/hexo-demo/themes/yilia/layout/archive.ejs" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/hexo-demo/themes/yilia/layout/category.ejs" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/hexo-demo/themes/yilia/layout/index.ejs" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/hexo-demo/themes/yilia/layout/layout.ejs" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/hexo-demo/themes/yilia/layout/page.ejs" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/hexo-demo/themes/yilia/layout/post.ejs" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/hexo-demo/themes/yilia/layout/tag.ejs" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/hexo-demo/themes/yilia/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/hexo-demo/themes/yilia/source-src/css/_core.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/hexo-demo/themes/yilia/source-src/css/_function.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/hexo-demo/themes/yilia/source-src/css/archive.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/hexo-demo/themes/yilia/source-src/css/article-inner.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/hexo-demo/themes/yilia/source-src/css/article-main.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/hexo-demo/themes/yilia/source-src/css/article-nav.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/hexo-demo/themes/yilia/source-src/css/article.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/hexo-demo/themes/yilia/source-src/css/core/_animation.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/hexo-demo/themes/yilia/source-src/css/core/_media-queries.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/hexo-demo/themes/yilia/source-src/css/core/_mixin.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/hexo-demo/themes/yilia/source-src/css/core/_reset.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/hexo-demo/themes/yilia/source-src/css/core/_variables.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/hexo-demo/themes/yilia/source-src/css/duoshuo.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/hexo-demo/themes/yilia/source-src/css/fonts.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/hexo-demo/themes/yilia/source-src/css/fonts/iconfont.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/hexo-demo/themes/yilia/source-src/css/fonts/iconfont.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/hexo-demo/themes/yilia/source-src/css/fonts/iconfont.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/hexo-demo/themes/yilia/source-src/css/fonts/iconfont.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/hexo-demo/themes/yilia/source-src/css/footer.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/hexo-demo/themes/yilia/source-src/css/global.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/hexo-demo/themes/yilia/source-src/css/grid.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/hexo-demo/themes/yilia/source-src/css/highlight.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/hexo-demo/themes/yilia/source-src/css/img/checkered-pattern.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/hexo-demo/themes/yilia/source-src/css/img/scrollbar_arrow.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/hexo-demo/themes/yilia/source-src/css/img/tooltip.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/hexo-demo/themes/yilia/source-src/css/left.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/hexo-demo/themes/yilia/source-src/css/main.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/hexo-demo/themes/yilia/source-src/css/mobile-slider.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/hexo-demo/themes/yilia/source-src/css/mobile.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/hexo-demo/themes/yilia/source-src/css/page.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/hexo-demo/themes/yilia/source-src/css/reward.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/hexo-demo/themes/yilia/source-src/css/scroll.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/hexo-demo/themes/yilia/source-src/css/share.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/hexo-demo/themes/yilia/source-src/css/social.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/hexo-demo/themes/yilia/source-src/css/tags-cloud.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/hexo-demo/themes/yilia/source-src/css/tags.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/hexo-demo/themes/yilia/source-src/css/tools.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/hexo-demo/themes/yilia/source-src/css/tooltip.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/hexo-demo/themes/yilia/source-src/js/Q.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/hexo-demo/themes/yilia/source-src/js/anm.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/hexo-demo/themes/yilia/source-src/js/browser.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/hexo-demo/themes/yilia/source-src/js/fix.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/hexo-demo/themes/yilia/source-src/js/main.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/hexo-demo/themes/yilia/source-src/js/mobile.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/hexo-demo/themes/yilia/source-src/js/report.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/hexo-demo/themes/yilia/source-src/js/share.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/hexo-demo/themes/yilia/source-src/js/slider.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/hexo-demo/themes/yilia/source-src/js/util.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/hexo-demo/themes/yilia/source-src/js/viewer.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/hexo-demo/themes/yilia/source/fonts/default-skin.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/hexo-demo/themes/yilia/source/fonts/iconfont.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/hexo-demo/themes/yilia/source/fonts/iconfont.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/hexo-demo/themes/yilia/source/fonts/iconfont.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/hexo-demo/themes/yilia/source/fonts/iconfont.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/hexo-demo/themes/yilia/source/fonts/tooltip.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/hexo-demo/themes/yilia/source/img/default-skin.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/hexo-demo/themes/yilia/source/img/preloader.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/hexo-demo/themes/yilia/source/img/scrollbar_arrow.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/hexo-demo/themes/yilia/source/main.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/hexo-demo/themes/yilia/source/main.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/hexo-demo/themes/yilia/source/slider.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/hexo-demo/themes/yilia/webpack.config.js" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+    </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -20,7 +322,18 @@
     <favorites_list name="luyi10year.github.io" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="_config.yml" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/blog/themes/yilia/_config.yml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-1446">
+              <caret line="4" column="1" lean-forward="false" selection-start-line="4" selection-start-column="1" selection-end-line="4" selection-end-column="1" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -70,6 +383,7 @@
         <option value="$PROJECT_DIR$/html-pack/index.html" />
         <option value="$PROJECT_DIR$/blog/hexo-demo/package.json" />
         <option value="$PROJECT_DIR$/blog/hexo-demo/_config.yml" />
+        <option value="$PROJECT_DIR$/blog/themes/yilia/_config.yml" />
       </list>
     </option>
   </component>
@@ -86,7 +400,7 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="NodeModulesDirectoryManager">
-    <handled-path value="$PROJECT_DIR$/blog/hexo-demo/node_modules" />
+    <handled-path value="$PROJECT_DIR$/blog/node_modules" />
     <handled-path value="$PROJECT_DIR$/node_modules" />
   </component>
   <component name="ProjectFrameBounds">
@@ -136,8 +450,26 @@
               <option name="myItemId" value="blog" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
+          </PATH>
+          <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="hexo-demo" />
+              <option name="myItemId" value="luyi10yaer.github.io" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="luyi10yaer.github.io" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="blog" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="themes" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="yilia" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -155,7 +487,21 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="hexo-demo" />
+              <option name="myItemId" value="source" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="luyi10yaer.github.io" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="luyi10yaer.github.io" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="blog" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -288,18 +634,18 @@
       <workItem from="1481555178987" duration="1813000" />
       <workItem from="1481594545100" duration="2567000" />
       <workItem from="1481597563845" duration="382000" />
-      <workItem from="1481598217462" duration="68000" />
+      <workItem from="1481598217462" duration="1896000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="74826000" />
+    <option name="totallyTimeSpent" value="76654000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1358" y="32" width="1936" height="1176" extended-state="6" />
     <editor active="false" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.16227607" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.17966281" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -328,112 +674,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/website/html/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1053">
-          <caret line="39" column="0" lean-forward="false" selection-start-line="39" selection-start-column="0" selection-end-line="39" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/website/dev/style/index/index.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/website/dev/js/index/index.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/website/dev/js/index/index.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/website/gulpfile.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.gitignore">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="27">
-          <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/server.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3051">
-          <caret line="113" column="0" lean-forward="true" selection-start-line="113" selection-start-column="0" selection-end-line="113" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/website/dev/style/common/config.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/website/html/rem.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="8" column="0" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="32" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/html/a.html" />
-    <entry file="file://$PROJECT_DIR$/node_modules/gulp-rev/index.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="405">
-          <caret line="144" column="69" lean-forward="false" selection-start-line="144" selection-start-column="69" selection-end-line="144" selection-end-column="69" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/node_modules/rev-path/index.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="10" column="30" lean-forward="false" selection-start-line="10" selection-start-column="30" selection-end-line="10" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/node_modules/gulp-rev-collector/index.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="351">
-          <caret line="106" column="95" lean-forward="false" selection-start-line="106" selection-start-column="95" selection-end-line="106" selection-end-column="95" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/website/dev/rev/css/rev-manifest.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="5" column="1" lean-forward="false" selection-start-line="5" selection-start-column="1" selection-end-line="5" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/website/dev/rev/js/rev-manifest.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="54">
-          <caret line="2" column="1" lean-forward="false" selection-start-line="2" selection-start-column="1" selection-end-line="2" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/website/dev/style/common/pc_reset.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1836">
@@ -629,6 +869,134 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="27">
           <caret line="25" column="25" lean-forward="false" selection-start-line="25" selection-start-column="25" selection-end-line="25" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blog/hexo-demo/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blog/hexo-demo/themes/yilia/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="27">
+          <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blog/hexo-demo/source/_posts/a-chrismas-ico.markdown">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-65">
+          <caret line="3" column="13" lean-forward="false" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blog/hexo-demo/source/_posts/about-pjax.markdown">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blog/hexo-demo/source/photos/ins.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blog/hexo-demo/source/photos/ins.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1215">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blog/db.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blog/source/_posts/about-pjax.markdown">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-405">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blog/source/_posts/a-chrismas-ico.markdown">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="475">
+          <caret line="23" column="19" lean-forward="false" selection-start-line="23" selection-start-column="19" selection-end-line="23" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blog/public/FHBlog/photos/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-810">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blog/public/FHBlog/photos/ins.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-3726">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blog/public/FHBlog/photos/ins.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blog/public/FHBlog/photos/ins.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blog/_config.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3456">
+          <caret line="128" column="5" lean-forward="false" selection-start-line="128" selection-start-column="4" selection-end-line="128" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blog/themes/yilia/_config.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1446">
+          <caret line="4" column="1" lean-forward="false" selection-start-line="4" selection-start-column="1" selection-end-line="4" selection-end-column="1" />
           <folding />
         </state>
       </provider>
