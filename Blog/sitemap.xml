@@ -2,16 +2,16 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://luyi10year.github.io/Blog/Blog/2012/12/19/a-chrismas-ico/</loc>
+    <loc>https://luyi10year.github.io/Blog/Blog/2016/12/13/new-article/</loc>
     
-    <lastmod>2016-12-13T08:42:26.163Z</lastmod>
+    <lastmod>2016-12-13T10:50:15.150Z</lastmod>
     
   </url>
   
   <url>
-    <loc>https://luyi10year.github.io/Blog/assets/demo/my_news_reader/js/tagConfig.js</loc>
+    <loc>https://luyi10year.github.io/Blog/Blog/2012/12/19/a-chrismas-ico/</loc>
     
-    <lastmod>2016-12-04T00:51:20.000Z</lastmod>
+    <lastmod>2016-12-13T10:43:42.893Z</lastmod>
     
   </url>
   
@@ -30,48 +30,6 @@
   </url>
   
   <url>
-    <loc>https://luyi10year.github.io/Blog/assets/demo/jiugongge_demo2.html</loc>
-    
-    <lastmod>2016-12-04T00:51:20.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://luyi10year.github.io/Blog/assets/demo/jquery.js</loc>
-    
-    <lastmod>2016-12-04T00:51:20.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://luyi10year.github.io/Blog/assets/demo/coffee_pc_demo/pro-con.html</loc>
-    
-    <lastmod>2016-12-04T00:51:20.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://luyi10year.github.io/Blog/assets/demo/coffee_pc_demo/pro-con.js</loc>
-    
-    <lastmod>2016-12-04T00:51:20.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://luyi10year.github.io/Blog/assets/demo/gift/index.html</loc>
-    
-    <lastmod>2016-12-04T00:51:20.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://luyi10year.github.io/Blog/assets/demo/mediator/mediator.js</loc>
-    
-    <lastmod>2016-12-04T00:51:20.000Z</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>https://luyi10year.github.io/Blog/assets/demo/jiugongge_demo.html</loc>
     
     <lastmod>2016-12-04T00:51:20.000Z</lastmod>
@@ -79,14 +37,7 @@
   </url>
   
   <url>
-    <loc>https://luyi10year.github.io/Blog/assets/demo/pre_css3_demo/demo.html</loc>
-    
-    <lastmod>2016-12-04T00:51:20.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://luyi10year.github.io/Blog/assets/demo/my_news_reader/index.html</loc>
+    <loc>https://luyi10year.github.io/Blog/assets/demo/jiugongge_demo2.html</loc>
     
     <lastmod>2016-12-04T00:51:20.000Z</lastmod>
     
@@ -121,7 +72,7 @@
   </url>
   
   <url>
-    <loc>https://luyi10year.github.io/Blog/assets/demo/gift/js/zepto.min.js</loc>
+    <loc>https://luyi10year.github.io/Blog/assets/demo/jquery.js</loc>
     
     <lastmod>2016-12-04T00:51:20.000Z</lastmod>
     
@@ -135,7 +86,63 @@
   </url>
   
   <url>
+    <loc>https://luyi10year.github.io/Blog/assets/demo/my_news_reader/js/tagConfig.js</loc>
+    
+    <lastmod>2016-12-04T00:51:20.000Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://luyi10year.github.io/Blog/assets/demo/gift/index.html</loc>
+    
+    <lastmod>2016-12-04T00:51:20.000Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://luyi10year.github.io/Blog/assets/demo/coffee_pc_demo/pro-con.html</loc>
+    
+    <lastmod>2016-12-04T00:51:20.000Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://luyi10year.github.io/Blog/assets/demo/coffee_pc_demo/pro-con.js</loc>
+    
+    <lastmod>2016-12-04T00:51:20.000Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://luyi10year.github.io/Blog/assets/demo/mediator/demo.html</loc>
+    
+    <lastmod>2016-12-04T00:51:20.000Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://luyi10year.github.io/Blog/assets/demo/mediator/mediator.js</loc>
+    
+    <lastmod>2016-12-04T00:51:20.000Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://luyi10year.github.io/Blog/assets/demo/my_news_reader/index.html</loc>
+    
+    <lastmod>2016-12-04T00:51:20.000Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://luyi10year.github.io/Blog/assets/demo/pre_css3_demo/demo.html</loc>
+    
+    <lastmod>2016-12-04T00:51:20.000Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://luyi10year.github.io/Blog/assets/demo/gift/js/zepto.min.js</loc>
     
     <lastmod>2016-12-04T00:51:20.000Z</lastmod>
     
