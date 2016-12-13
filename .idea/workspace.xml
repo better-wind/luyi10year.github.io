@@ -2,34 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ac5cffe5-5acb-46aa-af37-1f1bc7b8b1b4" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Blog/assets/img/favicon.ico" afterPath="$PROJECT_DIR$/Blog/assets/img/favicon.ico" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Blog/2012/12/19/a-chrismas-ico/index.html" afterPath="$PROJECT_DIR$/Blog/2012/12/19/a-chrismas-ico/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Blog/2016/12/13/new-article/index.html" afterPath="$PROJECT_DIR$/Blog/2016/12/13/new-article/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Blog/archives/2012/12/index.html" afterPath="$PROJECT_DIR$/Blog/archives/2012/12/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Blog/archives/2012/index.html" afterPath="$PROJECT_DIR$/Blog/archives/2012/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Blog/archives/2016/12/index.html" afterPath="$PROJECT_DIR$/Blog/archives/2016/12/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Blog/archives/2016/index.html" afterPath="$PROJECT_DIR$/Blog/archives/2016/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Blog/archives/index.html" afterPath="$PROJECT_DIR$/Blog/archives/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Blog/assets/demo/border1px.html" afterPath="$PROJECT_DIR$/Blog/assets/demo/border1px.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Blog/assets/demo/coffee_pc_demo/pro-con.html" afterPath="$PROJECT_DIR$/Blog/assets/demo/coffee_pc_demo/pro-con.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Blog/assets/demo/gift/index.html" afterPath="$PROJECT_DIR$/Blog/assets/demo/gift/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Blog/assets/demo/hack_demo.html" afterPath="$PROJECT_DIR$/Blog/assets/demo/hack_demo.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Blog/assets/demo/jiugongge_demo.html" afterPath="$PROJECT_DIR$/Blog/assets/demo/jiugongge_demo.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Blog/assets/demo/jiugongge_demo2.html" afterPath="$PROJECT_DIR$/Blog/assets/demo/jiugongge_demo2.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Blog/assets/demo/mediator/demo.html" afterPath="$PROJECT_DIR$/Blog/assets/demo/mediator/demo.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Blog/assets/demo/my_news_reader/index.html" afterPath="$PROJECT_DIR$/Blog/assets/demo/my_news_reader/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Blog/assets/demo/pre_css3_demo/demo.html" afterPath="$PROJECT_DIR$/Blog/assets/demo/pre_css3_demo/demo.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Blog/atom.xml" afterPath="$PROJECT_DIR$/Blog/atom.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Blog/baidusitemap.xm" afterPath="$PROJECT_DIR$/Blog/baidusitemap.xm" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Blog/content.json" afterPath="$PROJECT_DIR$/Blog/content.json" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Blog/feed.json" afterPath="$PROJECT_DIR$/Blog/feed.json" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Blog/index.html" afterPath="$PROJECT_DIR$/Blog/index.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Blog/sitemap.xml" afterPath="$PROJECT_DIR$/Blog/sitemap.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Blog/slider.js" afterPath="$PROJECT_DIR$/Blog/slider.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Blog/tags/node/index.html" afterPath="$PROJECT_DIR$/Blog/tags/node/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Blog/tags/杂谈/index.html" afterPath="$PROJECT_DIR$/Blog/tags/杂谈/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/server-blog.js" afterPath="$PROJECT_DIR$/server-blog.js" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -60,11 +35,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="_config.yml" pinned="false" current-in-tab="true">
+      <file leaf-file-name="_config.yml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/hexo-blog/themes/yilia/_config.yml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-458">
-              <caret line="25" column="1" lean-forward="false" selection-start-line="25" selection-start-column="1" selection-end-line="25" selection-end-column="1" />
+            <state relative-caret-position="82">
+              <caret line="45" column="29" lean-forward="false" selection-start-line="45" selection-start-column="29" selection-end-line="45" selection-end-column="29" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Blog/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="135">
+              <caret line="22" column="2" lean-forward="true" selection-start-line="22" selection-start-column="2" selection-end-line="22" selection-end-column="2" />
               <folding />
             </state>
           </provider>
@@ -168,7 +153,6 @@
         <option value="$PROJECT_DIR$/hexo-blog/themes/yilia/source-src/js/Q.js" />
         <option value="$PROJECT_DIR$/Blog/feed.json" />
         <option value="$PROJECT_DIR$/hexo-blog/themes/yilia/layout/_partial/article.ejs" />
-        <option value="$PROJECT_DIR$/hexo-blog/themes/yilia/_config.yml" />
         <option value="$PROJECT_DIR$/hexo-blog/themes/yilia/layout/_partial/left-col.ejs" />
         <option value="$PROJECT_DIR$/hexo-blog/_config.yml" />
         <option value="$PROJECT_DIR$/hexo-blog/themes/yilia/layout/_partial/mobile-nav.ejs" />
@@ -177,6 +161,7 @@
         <option value="$PROJECT_DIR$/hexo-blog/themes/yilia/layout/_partial/tools.ejs" />
         <option value="$PROJECT_DIR$/hexo-blog/themes/yilia/source-src/js/slider.js" />
         <option value="$PROJECT_DIR$/server-blog.js" />
+        <option value="$PROJECT_DIR$/hexo-blog/themes/yilia/_config.yml" />
       </list>
     </option>
   </component>
@@ -227,108 +212,6 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="luyi10yaer.github.io" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="luyi10yaer.github.io" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="luyi10yaer.github.io" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="hexo-blog" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="luyi10yaer.github.io" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="luyi10yaer.github.io" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="hexo-blog" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="themes" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="yilia" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="luyi10yaer.github.io" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="luyi10yaer.github.io" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="hexo-blog" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="source" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="assets" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="img" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="luyi10yaer.github.io" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="luyi10yaer.github.io" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="hexo-blog" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="source" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="assets" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="luyi10yaer.github.io" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="luyi10yaer.github.io" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="hexo-blog" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="source" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -475,16 +358,16 @@
       <workItem from="1481598217462" duration="5527000" />
       <workItem from="1481613026295" duration="13870000" />
       <workItem from="1481635055042" duration="4786000" />
-      <workItem from="1481639913134" duration="5521000" />
+      <workItem from="1481639913134" duration="5778000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="104462000" />
+    <option name="totallyTimeSpent" value="104719000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="32" width="1382" height="744" extended-state="6" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.22321428" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -493,7 +376,7 @@
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3295082" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.36557376" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.36557376" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -604,14 +487,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-1688">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Blog/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -935,8 +810,16 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/hexo-blog/themes/yilia/_config.yml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-458">
-          <caret line="25" column="1" lean-forward="false" selection-start-line="25" selection-start-column="1" selection-end-line="25" selection-end-column="1" />
+        <state relative-caret-position="82">
+          <caret line="45" column="29" lean-forward="false" selection-start-line="45" selection-start-column="29" selection-end-line="45" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Blog/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="22" column="2" lean-forward="true" selection-start-line="22" selection-start-column="2" selection-end-line="22" selection-end-column="2" />
           <folding />
         </state>
       </provider>
