@@ -35,7 +35,7 @@ Blog = {
     },
     hexoG:function(){
         var self = this;
-        process.exec('cd hexo-blog && hexo g', function (error, stdout, stderr) {
+        process.exec('cd hexo-blog && hexo clean && hexo g', function (error, stdout, stderr) {
             if (error !== null) {
                 console.log('exec error: ' + error);
             }

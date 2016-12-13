@@ -4,7 +4,7 @@
 
     
   <url>
-    <loc>https://luyi10year.github.io/Blog/Blog/2016/12/13/new-article/</loc>
+    <loc>https://luyi10year.github.io/Blog/2016/12/13/new-article/</loc>
     <lastmod>2016-12-13T10:50:15.150Z</lastmod>
     <data>
         <display>
@@ -21,7 +21,7 @@
 
     
   <url>
-    <loc>https://luyi10year.github.io/Blog/Blog/2012/12/19/a-chrismas-ico/</loc>
+    <loc>https://luyi10year.github.io/Blog/2012/12/19/a-chrismas-ico/</loc>
     <lastmod>2016-12-13T10:43:42.893Z</lastmod>
     <data>
         <display>
