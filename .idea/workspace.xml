@@ -1,7 +1,70 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ac5cffe5-5acb-46aa-af37-1f1bc7b8b1b4" name="Default" comment="" />
+    <list default="true" id="ac5cffe5-5acb-46aa-af37-1f1bc7b8b1b4" name="Default" comment="">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Blog/2012/12/19/a-chrismas-ico/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Blog/archives/2012/12/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Blog/archives/2012/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Blog/archives/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Blog/assets/blogImg/xmas_ico0.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Blog/assets/blogImg/xmas_ico1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Blog/assets/blogImg/xmas_ico2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Blog/assets/blogImg/xmas_ico3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Blog/assets/demo/border1px.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Blog/assets/demo/coffee_pc_demo/pro-con.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Blog/assets/demo/coffee_pc_demo/pro-con.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Blog/assets/demo/gift/css/index.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Blog/assets/demo/gift/css/index.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Blog/assets/demo/gift/css/reset.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Blog/assets/demo/gift/img/paper-b.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Blog/assets/demo/gift/img/paper.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Blog/assets/demo/gift/img/shake.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Blog/assets/demo/gift/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Blog/assets/demo/gift/js/index.main.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Blog/assets/demo/gift/js/shake.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Blog/assets/demo/gift/js/zepto.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Blog/assets/demo/gift/media/gift.ogg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Blog/assets/demo/hack_demo.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Blog/assets/demo/jiugongge_demo.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Blog/assets/demo/jiugongge_demo2.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Blog/assets/demo/jquery.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Blog/assets/demo/mediator/demo.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Blog/assets/demo/mediator/mediator.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Blog/assets/demo/mediator/sgws.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Blog/assets/demo/my_news_reader/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Blog/assets/demo/my_news_reader/js/main.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Blog/assets/demo/my_news_reader/js/tagConfig.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Blog/assets/demo/pre_css3_demo/bg.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Blog/assets/demo/pre_css3_demo/demo.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Blog/assets/demo/pre_css3_demo/mhxy.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Blog/assets/img/alipay.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Blog/assets/img/empty.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Blog/assets/img/favicon.ico" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Blog/assets/img/preloader.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Blog/assets/img/weixin.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Blog/atom.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Blog/baidusitemap.xm" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Blog/content.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Blog/feed.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Blog/fonts/default-skin.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Blog/fonts/iconfont.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Blog/fonts/iconfont.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Blog/fonts/iconfont.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Blog/fonts/iconfont.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Blog/fonts/tooltip.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Blog/img/default-skin.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Blog/img/preloader.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Blog/img/scrollbar_arrow.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Blog/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Blog/main.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Blog/main.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Blog/sitemap.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Blog/slider.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Blog/tags/杂谈/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Blog/tags/设计/index.html" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/server-blog.js" afterPath="$PROJECT_DIR$/server-blog.js" />
+    </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -21,8 +84,18 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="package.json" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/hexo-blog/package.json">
+      <file leaf-file-name="_config.yml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/hexo-blog/themes/yilia/_config.yml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="351">
+              <caret line="13" column="34" lean-forward="false" selection-start-line="13" selection-start-column="34" selection-end-line="13" selection-end-column="34" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="webpack.config.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/hexo-blog/themes/yilia/webpack.config.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
               <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -31,11 +104,28 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="_config.yml" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/hexo-blog/themes/yilia/_config.yml">
+      <file leaf-file-name="fonts.scss" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/hexo-blog/themes/yilia/source-src/css/fonts.scss">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-12">
-              <caret line="24" column="12" lean-forward="false" selection-start-line="24" selection-start-column="12" selection-end-line="24" selection-end-column="12" />
+            <state relative-caret-position="27">
+              <caret line="1" column="13" lean-forward="false" selection-start-line="1" selection-start-column="13" selection-end-line="1" selection-end-column="13" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="main.css" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/hexo-blog/themes/yilia/source/main.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="189">
+              <caret line="782" column="23" lean-forward="false" selection-start-line="782" selection-start-column="23" selection-end-line="782" selection-end-column="23" />
+              <caret line="785" column="23" lean-forward="false" selection-start-line="785" selection-start-column="23" selection-end-line="785" selection-end-column="23" />
+              <caret line="788" column="23" lean-forward="false" selection-start-line="788" selection-start-column="23" selection-end-line="788" selection-end-column="23" />
+              <caret line="793" column="23" lean-forward="false" selection-start-line="793" selection-start-column="23" selection-end-line="793" selection-end-column="23" />
+              <caret line="796" column="23" lean-forward="false" selection-start-line="796" selection-start-column="23" selection-end-line="796" selection-end-column="23" />
+              <caret line="799" column="23" lean-forward="false" selection-start-line="799" selection-start-column="23" selection-end-line="799" selection-end-column="23" />
+              <caret line="2487" column="23" lean-forward="false" selection-start-line="2487" selection-start-column="23" selection-end-line="2487" selection-end-column="23" />
+              <caret line="2758" column="23" lean-forward="false" selection-start-line="2758" selection-start-column="23" selection-end-line="2758" selection-end-column="23" />
               <folding />
             </state>
           </provider>
@@ -53,7 +143,17 @@
   <component name="FindInProjectRecents">
     <findStrings>
       <find>_getIterator3</find>
+      <find>script</find>
+      <find>slide</find>
+      <find>Blo</find>
+      <find>/font</find>
+      <find>/f</find>
+      <find>/img</find>
     </findStrings>
+    <dirStrings>
+      <dir>F:\github\luyi10yaer.github.io\hexo-blog\themes</dir>
+      <dir>F:\github\luyi10yaer.github.io\hexo-blog\themes\yilia\source-src</dir>
+    </dirStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -94,10 +194,14 @@
         <option value="$PROJECT_DIR$/blog/themes/yilia/_config.yml" />
         <option value="$PROJECT_DIR$/blog/.gitignore" />
         <option value="$PROJECT_DIR$/.gitignore" />
-        <option value="$PROJECT_DIR$/server-blog.js" />
         <option value="$PROJECT_DIR$/hexo-blog/README.md" />
         <option value="$PROJECT_DIR$/hexo-blog/_config.yml" />
+        <option value="$PROJECT_DIR$/server-blog.js" />
+        <option value="$PROJECT_DIR$/hexo-blog/themes/yilia/source-src/js/main.js" />
         <option value="$PROJECT_DIR$/hexo-blog/themes/yilia/_config.yml" />
+        <option value="$PROJECT_DIR$/hexo-blog/themes/yilia/source-src/js/slider.js" />
+        <option value="$PROJECT_DIR$/hexo-blog/source/_posts/a-chrismas-ico.markdown" />
+        <option value="$PROJECT_DIR$/hexo-blog/themes/yilia/source/main.css" />
       </list>
     </option>
   </component>
@@ -115,6 +219,7 @@
   </component>
   <component name="NodeModulesDirectoryManager">
     <handled-path value="$PROJECT_DIR$/hexo-blog/node_modules" />
+    <handled-path value="$PROJECT_DIR$/hexo-blog/themes/yilia/node_modules" />
     <handled-path value="$PROJECT_DIR$/node_modules" />
   </component>
   <component name="ProjectFrameBounds">
@@ -151,20 +256,6 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="luyi10yaer.github.io" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="luyi10yaer.github.io" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Blog" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
         </subPane>
       </pane>
       <pane id="Scratches" />
@@ -183,19 +274,19 @@
     <property name="JavaScriptWeakerCompletionTypeGuess" value="true" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\github\luyi10yaer.github.io\hexo-blog\source\assets\blogImg" />
+      <recent name="F:\github\luyi10year.github.io\dev-pack\components\about" />
+      <recent name="F:\github\luyi10year.github.io" />
+      <recent name="F:\github\luyi10year.github.io\dev-pack\style\common" />
+      <recent name="F:\github\luyi10year.github.io\dev-pack\components" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="F:\github\luyi10yaer.github.io\website" />
       <recent name="F:\github\luyi10year.github.io\dev-pack\js" />
       <recent name="F:\github\luyi10year.github.io\dev-pack\style" />
       <recent name="F:\github\luyi10year.github.io\dev-pack" />
       <recent name="F:\github\luyi10year.github.io\dev-pack\components\common\style" />
-    </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="F:\github\luyi10year.github.io\dev-pack\components\about" />
-      <recent name="F:\github\luyi10year.github.io" />
-      <recent name="F:\github\luyi10year.github.io\dev-pack\style\common" />
-      <recent name="F:\github\luyi10year.github.io\dev-pack\components" />
-      <recent name="F:\github\luyi10year.github.io\html" />
     </key>
   </component>
   <component name="RunManager">
@@ -262,6 +353,9 @@
   <component name="ShelveChangesManager" show_recycled="false">
     <option name="remove_strategy" value="false" />
   </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="ac5cffe5-5acb-46aa-af37-1f1bc7b8b1b4" name="Default" comment="" />
@@ -287,33 +381,33 @@
       <workItem from="1481594545100" duration="2567000" />
       <workItem from="1481597563845" duration="382000" />
       <workItem from="1481598217462" duration="5527000" />
-      <workItem from="1481613026295" duration="1918000" />
+      <workItem from="1481613026295" duration="6163000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="82203000" />
+    <option name="totallyTimeSpent" value="86448000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1358" y="32" width="1936" height="1176" extended-state="6" />
     <editor active="false" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.27186513" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.14963119" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.42706335" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.39539346" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.38867563" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -327,101 +421,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/website/dev-pack/style/index.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="189">
-          <caret line="7" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/website/gulpfile.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="566">
-          <caret line="68" column="36" lean-forward="false" selection-start-line="68" selection-start-column="36" selection-end-line="68" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/website/dev-pack/components/header/header.vue">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1917">
-          <caret line="71" column="47" lean-forward="false" selection-start-line="71" selection-start-column="47" selection-end-line="71" selection-end-column="47" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/website/dev-pack/components/home/home.vue">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="675">
-          <caret line="25" column="0" lean-forward="false" selection-start-line="25" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/website/dev-pack/components/about/about.vue">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="378">
-          <caret line="17" column="16" lean-forward="false" selection-start-line="17" selection-start-column="16" selection-end-line="17" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/website/dist-pack/build.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="27">
-          <caret line="63" column="0" lean-forward="false" selection-start-line="63" selection-start-column="0" selection-end-line="63" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/website/dev-pack/components/app.vue">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="459">
-          <caret line="17" column="48" lean-forward="false" selection-start-line="17" selection-start-column="48" selection-end-line="17" selection-end-column="48" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/package.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="162">
-          <caret line="6" column="57" lean-forward="false" selection-start-line="6" selection-start-column="57" selection-end-line="6" selection-end-column="57" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/website/dev-pack/js/index.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="604">
-          <caret line="46" column="7" lean-forward="false" selection-start-line="46" selection-start-column="7" selection-end-line="46" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/website/webpack.config.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="297">
-          <caret line="32" column="6" lean-forward="false" selection-start-line="32" selection-start-column="6" selection-end-line="32" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/website/html-pack/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="27">
-          <caret line="11" column="28" lean-forward="false" selection-start-line="11" selection-start-column="28" selection-end-line="11" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/blog/hexo-demo/scaffolds/draft.md" />
-    <entry file="file://$PROJECT_DIR$/blog/hexo-demo/scaffolds/page.md" />
-    <entry file="file://$PROJECT_DIR$/blog/hexo-demo/themes/landscape/scripts/fancybox.js" />
-    <entry file="file://$PROJECT_DIR$/blog/hexo-demo/themes/landscape/layout/archive.ejs" />
-    <entry file="file://$PROJECT_DIR$/blog/hexo-demo/scaffolds/post.md" />
-    <entry file="file://$PROJECT_DIR$/blog/hexo-demo/source/_posts/hello-world.md" />
-    <entry file="file://$PROJECT_DIR$/blog/hexo-demo/package.json" />
-    <entry file="file://$PROJECT_DIR$/blog/hexo-demo/source/photos/index.ejs" />
-    <entry file="file://$PROJECT_DIR$/blog/hexo-demo/source/assets/demo/coffee_pc_demo/pro-con.html" />
-    <entry file="file://$PROJECT_DIR$/blog/hexo-demo/public/index.html" />
-    <entry file="file://$PROJECT_DIR$/blog/hexo-demo/public/FHBlog/index.html" />
-    <entry file="file://$PROJECT_DIR$/blog/hexo-demo/_config.yml" />
-    <entry file="file://$PROJECT_DIR$/blog/hexo-demo/.gitignore" />
-    <entry file="file://$PROJECT_DIR$/blog/hexo-demo/themes/yilia/.gitignore" />
-    <entry file="file://$PROJECT_DIR$/blog/hexo-demo/source/_posts/a-chrismas-ico.markdown" />
-    <entry file="file://$PROJECT_DIR$/blog/hexo-demo/source/_posts/about-pjax.markdown" />
-    <entry file="file://$PROJECT_DIR$/blog/hexo-demo/source/photos/ins.css" />
-    <entry file="file://$PROJECT_DIR$/blog/hexo-demo/source/photos/ins.js" />
     <entry file="file://$PROJECT_DIR$/blog/db.json" />
     <entry file="file://$PROJECT_DIR$/blog/source/_posts/about-pjax.markdown" />
     <entry file="file://$PROJECT_DIR$/blog/source/_posts/a-chrismas-ico.markdown" />
@@ -444,10 +443,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/server-blog.js">
+    <entry file="file://$PROJECT_DIR$/hexo-blog/public/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="5" column="18" lean-forward="false" selection-start-line="5" selection-start-column="18" selection-end-line="5" selection-end-column="18" />
+        <state relative-caret-position="2491">
+          <caret line="171" column="0" lean-forward="true" selection-start-line="171" selection-start-column="0" selection-end-line="171" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hexo-blog/scaffolds/post.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
@@ -460,18 +467,34 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/hexo-blog/source/_posts/a-chrismas-ico.markdown">
+    <entry file="file://$PROJECT_DIR$/Blog/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="6">
-          <caret line="8" column="3" lean-forward="false" selection-start-line="8" selection-start-column="3" selection-end-line="8" selection-end-column="3" />
+        <state relative-caret-position="-1255">
+          <caret line="10" column="22" lean-forward="false" selection-start-line="10" selection-start-column="16" selection-end-line="10" selection-end-column="22" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/hexo-blog/_config.yml">
+    <entry file="file://$PROJECT_DIR$/hexo-blog/themes/yilia/layout/_partial/post/category.ejs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-648">
-          <caret line="15" column="12" lean-forward="false" selection-start-line="15" selection-start-column="12" selection-end-line="15" selection-end-column="12" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server-blog.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="18" column="0" lean-forward="false" selection-start-line="18" selection-start-column="0" selection-end-line="22" selection-end-column="2" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hexo-blog/themes/yilia/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-972">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
@@ -484,18 +507,243 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/hexo-blog/public/index.html">
+    <entry file="file://$PROJECT_DIR$/hexo-blog/themes/yilia/source/slider.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2491">
-          <caret line="171" column="0" lean-forward="true" selection-start-line="171" selection-start-column="0" selection-end-line="171" selection-end-column="0" />
+        <state relative-caret-position="105">
+          <caret line="46" column="4837" lean-forward="false" selection-start-line="46" selection-start-column="4836" selection-end-line="46" selection-end-column="4837" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hexo-blog/themes/yilia/.eslintrc.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-648">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hexo-blog/themes/yilia/.eslintignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hexo-blog/themes/yilia/.editorconfig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hexo-blog/themes/yilia/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hexo-blog/_config.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="14" column="14" lean-forward="false" selection-start-line="14" selection-start-column="14" selection-end-line="14" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Blog/content.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hexo-blog/themes/yilia/source-src/js/mobile.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-3659">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#39#0" expanded="false" />
+            <marker date="1480812680000" expanded="true" signature="1728:1889" ph="..." />
+            <marker date="1480812680000" expanded="true" signature="1757:1845" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hexo-blog/themes/yilia/source-src/js/report.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1013">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hexo-blog/themes/yilia/source-src/js/share.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1702">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#39#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hexo-blog/themes/yilia/source-src/js/util.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1661">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1480812680000" expanded="true" signature="575:580" ph="'" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hexo-blog/themes/yilia/source-src/js/viewer.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#1#36#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hexo-blog/themes/yilia/source-src/css/_core.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hexo-blog/themes/yilia/source-src/css/_function.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hexo-blog/themes/yilia/source-src/css/main.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-261">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hexo-blog/themes/yilia/.babelrc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hexo-blog/themes/yilia/source-src/js/anm.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2120">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hexo-blog/source/_posts/a-chrismas-ico.markdown">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="21" column="20" lean-forward="false" selection-start-line="21" selection-start-column="20" selection-end-line="21" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hexo-blog/themes/yilia/source-src/js/slider.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="107" column="14" lean-forward="false" selection-start-line="107" selection-start-column="14" selection-end-line="107" selection-end-column="14" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/hexo-blog/themes/yilia/_config.yml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-12">
-          <caret line="24" column="12" lean-forward="false" selection-start-line="24" selection-start-column="12" selection-end-line="24" selection-end-column="12" />
+        <state relative-caret-position="351">
+          <caret line="13" column="34" lean-forward="false" selection-start-line="13" selection-start-column="34" selection-end-line="13" selection-end-column="34" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hexo-blog/themes/yilia/source/main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1404">
+          <caret line="46" column="929" lean-forward="false" selection-start-line="46" selection-start-column="926" selection-end-line="46" selection-end-column="929" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hexo-blog/themes/yilia/source-src/js/main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="594">
+          <caret line="22" column="46" lean-forward="false" selection-start-line="22" selection-start-column="46" selection-end-line="22" selection-end-column="46" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Blog/main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="181">
+          <caret line="7" column="46" lean-forward="true" selection-start-line="7" selection-start-column="46" selection-end-line="7" selection-end-column="46" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Blog/main.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Blog/2012/12/19/a-chrismas-ico/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-486">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hexo-blog/themes/yilia/webpack.config.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hexo-blog/themes/yilia/source-src/css/fonts.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="27">
+          <caret line="1" column="13" lean-forward="false" selection-start-line="1" selection-start-column="13" selection-end-line="1" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hexo-blog/themes/yilia/source/main.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="782" column="23" lean-forward="false" selection-start-line="782" selection-start-column="23" selection-end-line="782" selection-end-column="23" />
+          <caret line="785" column="23" lean-forward="false" selection-start-line="785" selection-start-column="23" selection-end-line="785" selection-end-column="23" />
+          <caret line="788" column="23" lean-forward="false" selection-start-line="788" selection-start-column="23" selection-end-line="788" selection-end-column="23" />
+          <caret line="793" column="23" lean-forward="false" selection-start-line="793" selection-start-column="23" selection-end-line="793" selection-end-column="23" />
+          <caret line="796" column="23" lean-forward="false" selection-start-line="796" selection-start-column="23" selection-end-line="796" selection-end-column="23" />
+          <caret line="799" column="23" lean-forward="false" selection-start-line="799" selection-start-column="23" selection-end-line="799" selection-end-column="23" />
+          <caret line="2487" column="23" lean-forward="false" selection-start-line="2487" selection-start-column="23" selection-end-line="2487" selection-end-column="23" />
+          <caret line="2758" column="23" lean-forward="false" selection-start-line="2758" selection-start-column="23" selection-end-line="2758" selection-end-column="23" />
           <folding />
         </state>
       </provider>
